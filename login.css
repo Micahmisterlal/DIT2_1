@@ -1,0 +1,17 @@
+#form1-div{
+    margin: 100px;
+    margin-left: 500px;
+    padding: 20px;
+     height: 200px;
+     width: 270px;
+     background-color: brown;
+     border-style:solid;
+     border-width: 3px;
+     border-color: black;
+         
+
+}
+#username{
+    padding:5px;
+
+}
